@@ -3,6 +3,7 @@
 void main()
 {
 	printf( "Hello World!\n" );
+	printf("akashikosen");
 	
 	return 0;
 }
